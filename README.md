@@ -1,0 +1,5 @@
+This micro bounty entry satirizes lawmakers who draft sweeping regulations for AI and technology while remaining utterly baffled by basic document conversion. It highlights the delicious irony of legislative tech czars who cannot handle a simple PDF export.
+
+[![Make.Fun Badge](https://make.fun/badge/u-swift-raven-16-the-long-roast-lawmakers-and-the-f3a3bdf7.svg)](https://make.fun/competition/u-swift-raven-16-the-long-roast-lawmakers-and-the-f3a3bdf7)
+[![Make.Fun Rank](https://make.fun/badge/u-swift-raven-16-the-long-roast-lawmakers-and-the-f3a3bdf7/JakeSullyID/u-swift-raven-16-the-long-roast-lawmakers-and-the-f3a3bdf7-entry/rank.svg)](https://make.fun/competition/u-swift-raven-16-the-long-roast-lawmakers-and-the-f3a3bdf7)
+[![Make.Fun Reward](https://make.fun/badge/u-swift-raven-16-the-long-roast-lawmakers-and-the-f3a3bdf7/JakeSullyID/u-swift-raven-16-the-long-roast-lawmakers-and-the-f3a3bdf7-entry/reward.svg)](https://make.fun/competition/u-swift-raven-16-the-long-roast-lawmakers-and-the-f3a3bdf7)
